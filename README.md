@@ -1,7 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sergey Lebedev
 ======================================================================================================================================
 
-I am currently an M.S. student in Operations Research with an undergraduate degree in Economics and Mathematics. Last summer I did an internship at Citadel where I used Python and SQL to automate reporting workflows within three departments of the firm. I have a passion for writing a code that is efficient, clean, follows sound logic and is easily interpretable and maintainable. I also enjoy solving problems which have a real impact, especially when it comes to programming. Throughout my studies, I have acquired a broad range of knowledge in computer science and mathematics. When it comes to programming, I know such languages as Python, R, C, C++ and SQL. In particular, I have a broad experience with using such Python libraries as NumPy, Pandas and Scikit-Learn as well as object-oriented programming. When it come to functional programming, I also have knowledge of Scala and several projects in Apache Spark.
+<p> I am currently an M.S. student in Operations Research with an undergraduate degree in Economics and Mathematics. Last summer I did an internship at Citadel where I used Python and SQL to automate reporting workflows within three departments of the firm. </p> 
+
+<p> I have a passion for writing a code that is efficient, clean, follows sound logic and is easily interpretable and maintainable. I also enjoy solving problems which have a real impact, especially when it comes to programming. </p>
+
+<p> Throughout my studies, I have acquired a broad range of knowledge in computer science and mathematics. When it comes to programming, I know such languages as Python, R, C, C++ and SQL. In particular, I have a broad experience with using such Python libraries as NumPy, Pandas and Scikit-Learn as well as object-oriented programming. When it come to functional programming, I also have knowledge of Scala and several projects in Apache Spark. </p>
 
 *   🌍  I'm based in New York, but open for relocation
 *   ✉️  You can contact me at [sl4996@columbia.edu](mailto:sl4996@columbia.edu)

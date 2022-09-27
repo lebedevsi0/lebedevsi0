@@ -5,7 +5,10 @@ I am currently an M.S. student in Operations Research with an undergraduate degr
 
 *   🌍  I'm based in New York, but open for relocation
 *   ✉️  You can contact me at [sl4996@columbia.edu](mailto:sl4996@columbia.edu)
-*   🧠  I'm learning Scala, Apache Spark### Skills 
+*   🧠  I'm currently learning Scala, Apache Spark
+
+### Skills 
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>

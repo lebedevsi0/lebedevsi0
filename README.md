@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p> I have a passion for writing a code that is efficient, clean, follows sound logic and is easily interpretable and maintainable. I also enjoy solving problems which have a real impact, especially when it comes to programming. </p>
 
-<p> Throughout my studies, I have acquired a broad range of knowledge in computer science and mathematics. When it comes to programming, I know such languages as Python, R, C, C++ and SQL. In particular, I have a broad experience with using such Python libraries as NumPy, Pandas and Scikit-Learn as well as object-oriented programming. When it come to functional programming, I also have knowledge of Scala and several projects in Apache Spark. </p>
+<p> Throughout my studies, I have acquired a broad range of knowledge in computer science and mathematics. When it comes to programming, I know such languages as Python, R, C, C++ and SQL. In particular, I have a broad experience with using such Python libraries as NumPy, Pandas and Scikit-Learn as well as object-oriented programming. When it come to functional programming, currently I am learning scala in Apache Spark. </p>
 
 *   🌍  I'm based in New York, but open for relocation
 *   ✉️  You can contact me at [sl4996@columbia.edu](mailto:sl4996@columbia.edu)
